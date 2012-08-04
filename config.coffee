@@ -26,5 +26,4 @@ exports.config =
         after: ['vendor/styles/helpers.css']
 
     templates:
-      defaultExtension: 'jade'      
       joinTo: 'javascripts/app.js'
